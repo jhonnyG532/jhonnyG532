@@ -3,13 +3,14 @@
 
 <br>
 
-<p align="right"> <h3>Visitas al Perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=jhonnyg532&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Jhonny Fajardo" /> 
-  </p>
+<p align="right"> 
+  <b>Visitas al Perfil:</b> 
+  <img src="https://komarev.com/ghpvc/?username=jhonnyg532&label=Views&color=7aa2f7&style=flat-square" alt="Jhonny Fajardo" valign="middle"/> 
+</p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" width="380" /></p>
 
 - ⚡ **Especialista Backend & Arquitectura:** Diseñando ecosistemas robustos, microservicios, APIs RESTful y sistemas altamente concurrentes utilizando **Python, Flask y PostgreSQL**.
 - 🗄️ **Administración de Bases de Datos:** Optimización de consultas complejas, modelado relacional avanzado e integración continua de datos con entornos de staging y producción.
@@ -63,17 +64,17 @@
 <table align="center" width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jhonnyG532&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Métricas Generales" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jhonnyG532&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Métricas Generales" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs?username=jhonnyG532&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Predominantes" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonnyG532&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Predominantes" width="100%" />
     </td>
   </tr>
   
   <tr>
     <td colspan="2" width="100%" align="center" valign="top">
       <br />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonnyG532&theme=github-dark-v2&area=true&category=commits&hide_border=true" alt="Historial de Commits" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonnyG532&theme=tokyonight&area=true&category=commits&hide_border=true" alt="Historial de Commits" width="100%" />
     </td>
   </tr>
 
