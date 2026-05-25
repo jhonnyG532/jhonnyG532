@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Visitas al Perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Visitas al Perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=jhonnyg532&label=Profile%20views&color=0e75b6&style=flat"
     alt="Jhonny Fajardo" /> 
   </p>
 
@@ -19,13 +19,13 @@
 
 - 🎯 **Filosofía:** Transformar ideas complejas en código limpio, escalable, eficiente y con alta tolerancia a fallos.
 
-- 📫 Cómo contactarme: **TU_CORREO@example.com**
+- 📫 Cómo contactarme: **jhonnyguerrero653@gmail.com**
 
 <br>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/jhonny-alexander-fajardo-guerrero-b82b9b310" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn" height="30" width="40" /></a>
 </p>
@@ -48,11 +48,11 @@
 
 <h3>Datos Estadísticos :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonnyg532&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Top Lenguajes" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonnyg532&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff"
     alt="GitHub Stats" /></p>
