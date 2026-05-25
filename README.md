@@ -58,17 +58,31 @@
 <hr />
 <br>
 
-<h3>Métricas de Rendimiento y Actividad de GitHub :-</h3>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhonnyG532&theme=github-dark-v2&area=true&category=commits" alt="Gráfico de Actividad" />
-</p>
+<h3>📊 Panel de Control y Rendimiento de Ingeniería :-</h3>
 
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jhonnyG532&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas Generales" height="165" />
+<table align="center" width="100%" border="0" cellpadding="5" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jhonnyG532&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Métricas Generales" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs?username=jhonnyG532&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Predominantes" width="100%" />
+    </td>
+  </tr>
   
-  <img align="center" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs?username=jhonnyG532&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes Principales" height="165" />
-</p>
+  <tr>
+    <td colspan="2" width="100%" align="center" valign="top">
+      <br />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonnyG532&theme=github-dark-v2&area=true&category=commits&hide_border=true" alt="Historial de Commits" width="100%" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" width="100%" align="center" valign="top">
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonnyG532&theme=tokyonight&hide_border=true" alt="Racha de Trabajo" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br>
