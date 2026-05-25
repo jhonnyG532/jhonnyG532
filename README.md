@@ -11,15 +11,12 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" /></p>
 
-- ⚡ **Especialista Backend:** Diseñando arquitecturas robustas, seguras y APIs de alto rendimiento con **Python, Flask y PostgreSQL**.
-
-- 🌐 **Desarrollo Full-Stack:** Construyendo interfaces dinámicas, fluidas y optimizadas para una experiencia de usuario impecable.
-
-- 🐧 **Linux Power User:** Entusiasta avanzado del sistema y optimización del kernel, llevando la personalización y la automatización al límite.
-
-- 🎯 **Filosofía:** Transformar ideas complejas en código limpio, escalable, eficiente y con alta tolerancia a fallos.
-
-- 📫 Cómo contactarme: **jhonnyguerrero653@gmail.com**
+- ⚡ **Especialista Backend & Arquitectura:** Diseñando ecosistemas robustos, microservicios, APIs RESTful y sistemas altamente concurrentes utilizando **Python, Flask y PostgreSQL**.
+- 🗄️ **Administración de Bases de Datos:** Optimización de consultas complejas, modelado relacional avanzado e integración continua de datos con entornos de staging y producción.
+- 🌐 **Desarrollo Full-Stack Pro:** Construyendo interfaces e integraciones dinámicas, optimizadas a nivel de renderizado para una experiencia de usuario impecable.
+- 🐧 **Linux Enterprise & SysAdmin:** Control avanzado de sistemas operativos basados en el Kernel Linux, personalización extrema, automatización de tareas mediante scripts en Bash y despliegue ágil en servidores VPS.
+- 🎯 **Filosofía de Ingeniería:** Transformar requerimientos complejos en soluciones de software limpias, modulares, escalables y con tolerancia crítica a fallos bajo estándares internacionales.
+- 📫 Cómo contactarme: **jhonnyguerrero053@gmail.com**
 
 <br>
 
@@ -32,27 +29,46 @@
 
 <br>
 
-<h3 align="left">Lenguajes y Herramientas de Élite:</h3>
+<h3 align="left">Ecosistema Tecnológico de Élite:</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
-  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; border-radius: 4px;" /> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> 
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 5px;" /> </a> 
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="45" height="45" style="background-color: white; border-radius: 4px; margin: 5px;" /> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" style="margin: 5px;" /> </a> 
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45" style="margin: 5px;" /> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" style="margin: 5px;" /> </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" style="margin: 5px;" /> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" style="margin: 5px;" /> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" style="margin: 5px;" /> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 5px;" /> </a> 
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 5px;" /> </a> 
+  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="background-color: white; border-radius: 50%; margin: 5px;" /> </a>
+  <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="45" height="45" style="margin: 5px;" /> </a>
+</p>
+
+<br>
+<hr />
+<br>
+
+<h3 align="center">Mis Contribuciones en Tiempo Real (Snake Game) 🐍</h3>
+<p align="center">
+  <img src="https://github.com/jhonnyG532/jhonnyG532/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<br>
+<hr />
+<br>
+
+<h3>Métricas de Rendimiento y Actividad de GitHub :-</h3>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhonnyG532&theme=github-dark-v2&area=true&category=commits" alt="Gráfico de Actividad" />
 </p>
 
 <br>
 
-<h3>Datos Estadísticos :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonnyg532&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Top Lenguajes" 
-    bg_color=#808080/></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=jhonnyG532&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas Generales" height="165" />
+  
+  <img align="center" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs?username=jhonnyG532&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes Principales" height="165" />
+</p>
 
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonnyg532&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff"
-    alt="GitHub Stats" /></p>
