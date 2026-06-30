@@ -52,7 +52,11 @@
 
 <h3 align="center">Mis Contribuciones en Tiempo Real (Snake Game) 🐍</h3>
 <p align="center">
-  <img src="https://github.com/jhonnyG532/jhonnyG532/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonnyG532/jhonnyG532/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonnyG532/jhonnyG532/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contributions Snake Game" src="https://raw.githubusercontent.com/jhonnyG532/jhonnyG532/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br>
